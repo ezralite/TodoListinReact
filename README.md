@@ -1,2 +1,0 @@
-# TodoListinReact
-Created with CodeSandbox
